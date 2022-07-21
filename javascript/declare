@@ -1,0 +1,26 @@
+JavaScript provides eight different data types which are undefined, null, boolean, string, symbol, bigint, number, and object.
+
+computers distinguish between numbers, such as the 
+number 12, 
+and strings, such as 
+"12", 
+"dog", 
+or 
+"123 cats
+
+We tell JavaScript to create or declare a variable by putting the keyword var in front of it, like so:
+
+var ourName;
+
+Variable names can be made up of numbers, letters, and $ or _, but may not contain spaces or start with a number.
+
+
+var myName;
+
+
+
+
+
+
+
+
