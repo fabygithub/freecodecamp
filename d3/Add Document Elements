@@ -1,0 +1,5 @@
+The select() method selects one element from the document
+const anchor = d3.select("a");
+
+Two other useful methods are append() and text().
+
