@@ -1,3 +1,27 @@
 Working on these challenges will involve you writing your code using one of the following methods:
 
 Clone this GitHub repo and complete these challenges locally.
+
+edit package.json
+
+  "author": "Fabian Cornejo"
+  
+  {
+	"name": "fcc-learn-npm-package-json",
+    "author": "Fabian Cornejo",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
+
+
+  
+  
