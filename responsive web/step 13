@@ -3,3 +3,20 @@ Examples of <a target>
 html target _blank
 
 target="_blank"
+
+How to use an image as a link in HTML?
+
+  <a href = "https://freecatphotoapp.com">
+      <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+      </a>
+      
+      
+    
+
+
+
+
+
+
+
+
