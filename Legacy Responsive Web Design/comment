@@ -1,3 +1,6 @@
 start a comment, you need to use <!-- and to end a comment, you need to use -->
 Comment out your h1 element and your p element, but not your h2 element.
 
+delete html elements
+<h1> delete </h1>
+
