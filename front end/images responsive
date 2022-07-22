@@ -1,0 +1,13 @@
+First, add a new image below the existing one
+img-responsive 
+
+"img-responsive
+
+ <a href="#"><img class="img-responsive" 
+ src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg" 
+ alt="A cute orange cat lying on its back."></a>  
+
+
+
+
+
