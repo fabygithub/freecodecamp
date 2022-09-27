@@ -73,7 +73,8 @@ Add a new div element inside of your .canvas element.
   background-color : #efb762
 }
 
-
+margin : 20px auto;
+ 
 
 
 
