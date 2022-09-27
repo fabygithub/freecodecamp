@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rothko Painting</title>
+</head>
+
+<body>
+ <img src="https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-1.png">
+</body>
+
+</html>
+
+img element with a src
+
+In the CSS box model, every HTML element is treated as a box with four areas.
+border
+padding
+height 
+content
+width
+
+Margin is the area outside of the box
+Remove the <img> element.
+
+<div class="canvas">
+<link rel="stylesheet" href="./styles.css">
+
+// selector
+.canvas {
+  width: 500px;
+}
+
+You should set the width property to 500px.
+height: 600px;
+
+Change the background-color of the canvas to #4d0f00.
+background-color : #4d0f00
+
+Wrap the .canvas element in another div. Give that div the frame class.
+  <div class="frame">
+    <div class="canvas">
+    </div>
+    </div>
+    
+Write a new rule using the .frame class selector.
+
+Use the border shorthand declaration to give the .frame element a solid, black border with a width of 50px.
+.frame{
+  border: 50px solid black;
+  width: 500px;
+  padding: 50px;
+  margin : 20px auto;
+}
+
+The frame is much too wide.
+In .frame, set its width to 500 pixels.
+
+width : 500px;
+Use padding to adjust the spacing within an element.
+padding : 50px
+
+Use margins to adjust the spacing outside of an element.
+ margin : 20px auto;
+ 
+Add a new div element inside of your .canvas element.
+<div class="one">
+</div>
+
+.one{
+  width: 425px;
+  height: 150px;
+  background-color : #efb762
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
