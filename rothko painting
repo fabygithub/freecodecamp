@@ -77,8 +77,43 @@ margin : 20px auto;
 padding : 1px; 
 
 
+changed its dimensions to 502 pixels x 602 pixels.
+width: 502px;
+height: 602px;
+ 
+Replace the padding property with overflow set to hidden 
+ 
+Add another div with a class value of two just below your one element. 
+<div class="two"></div> 
+
+Create a new CSS rule using the .two selector and set its width to 475 pixels
+.two{
+  width : 475px;  
+}
+
+background-color : #8f0401
+Center the .two element by setting its margin to auto.
+
+Create a new div with a class value of three 
+
+Create a new rule, .three, and set its width to 91%.
 
 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
 
 
 
